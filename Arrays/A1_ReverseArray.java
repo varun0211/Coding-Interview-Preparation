@@ -4,7 +4,7 @@ Input : arr[] = [1,2,3]
 Output : arr[] = [3,2,1]
 */
 
-class A1 {
+class A1_ReverseArray {
     
     public void reverseArray(int[] arr) {
         int start=0, end=arr.length-1;
